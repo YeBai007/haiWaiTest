@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"wrong_outline","texture":"17df89d58","rect":[477,1457,142,131],"offset":[0,0],"originalSize":[142,131],"rotated":1,"capInsets":[0,0,0,0]}},{"__type__":"cc.SpriteFrame","content":{"name":"right_outline","texture":"17df89d58","rect":[477,1605,141,131],"offset":[0,0],"originalSize":[141,131],"rotated":1,"capInsets":[0,0,0,0]}}]

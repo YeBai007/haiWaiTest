@@ -1,0 +1,19 @@
+{
+    "errcode":0,
+    "errmsg":"success",
+    "data":{
+        "courseware_id":3917,
+        "courseware_content":"{\"CoursewareKey\":\"RoundingByChance2_169_YINGYU\",\"arrStrings\":[\"1\",\"+50\",\"+99\",\"-50\",\"+46\",\"-6\"]}",
+        "title_id":"400036",
+        "user_id":"1576108",
+        "is_result":"1",
+        "is_lavel":"1",
+        "lavel_num":"0",
+        "create_time":"0",
+        "update_time":"0",
+        "created_at":"2020-07-17 10:52:10",
+        "updated_at":"2020-07-17 10:52:10",
+        "deleted_at":null,
+        "teacher_code":""
+    }
+}

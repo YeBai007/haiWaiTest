@@ -1,0 +1,181 @@
+
+fang_pose01.png
+size: 522,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fang03_eyebrow
+  rotate: false
+  xy: 369, 3
+  size: 145, 34
+  orig: 145, 34
+  offset: 0, 0
+  index: -1
+fang_arm_l01
+  rotate: true
+  xy: 2, 52
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+fang_arm_l06
+  rotate: true
+  xy: 75, 10
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+fang_arm_r01
+  rotate: false
+  xy: 148, 3
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+fang_arm_r06
+  rotate: true
+  xy: 264, 25
+  size: 99, 103
+  orig: 99, 103
+  offset: 0, 0
+  index: -1
+fang_blusher
+  rotate: true
+  xy: 264, 234
+  size: 148, 12
+  orig: 148, 12
+  offset: 0, 0
+  index: -1
+fang_body
+  rotate: false
+  xy: 287, 320
+  size: 199, 200
+  orig: 199, 200
+  offset: 0, 0
+  index: -1
+fang_eye_r01
+  rotate: false
+  xy: 208, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+fang_eye_r02
+  rotate: true
+  xy: 498, 207
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+fang_eye_r03
+  rotate: false
+  xy: 2, 13
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+fang_eyebrow_01
+  rotate: false
+  xy: 75, 78
+  size: 143, 40
+  orig: 143, 40
+  offset: 0, 0
+  index: -1
+fang_fdj
+  rotate: true
+  xy: 369, 39
+  size: 85, 151
+  orig: 85, 151
+  offset: 0, 0
+  index: -1
+fang_hat
+  rotate: false
+  xy: 264, 126
+  size: 232, 106
+  orig: 232, 106
+  offset: 0, 0
+  index: -1
+fang_leg_l01
+  rotate: false
+  xy: 488, 333
+  size: 28, 133
+  orig: 28, 133
+  offset: 0, 0
+  index: -1
+fang_leg_r01
+  rotate: true
+  xy: 382, 289
+  size: 29, 134
+  orig: 29, 134
+  offset: 0, 0
+  index: -1
+fang_mouse01
+  rotate: true
+  xy: 220, 29
+  size: 89, 42
+  orig: 89, 42
+  offset: 0, 0
+  index: -1
+fang_mouse02
+  rotate: false
+  xy: 439, 237
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+fang_mouse_error
+  rotate: false
+  xy: 382, 236
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+fang_yifu
+  rotate: false
+  xy: 2, 384
+  size: 283, 136
+  orig: 283, 136
+  offset: 0, 0
+  index: -1
+fang_yifu06
+  rotate: true
+  xy: 2, 120
+  size: 262, 134
+  orig: 262, 134
+  offset: 0, 0
+  index: -1
+fang_yifu09
+  rotate: true
+  xy: 138, 120
+  size: 262, 124
+  orig: 262, 124
+  offset: 0, 0
+  index: -1
+sweat_01
+  rotate: false
+  xy: 488, 468
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+sweat_02
+  rotate: false
+  xy: 498, 173
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+sweat_03
+  rotate: false
+  xy: 498, 148
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+xin_01
+  rotate: false
+  xy: 278, 237
+  size: 102, 81
+  orig: 102, 81
+  offset: 0, 0
+  index: -1

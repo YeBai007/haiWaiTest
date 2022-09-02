@@ -1,0 +1,34 @@
+
+pro.png
+size: 772,799
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_camera
+  rotate: true
+  xy: 2, 2
+  size: 795, 698
+  orig: 795, 698
+  offset: 0, 0
+  index: -1
+star_01
+  rotate: false
+  xy: 702, 509
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+star_02
+  rotate: false
+  xy: 702, 580
+  size: 68, 217
+  orig: 68, 217
+  offset: 0, 0
+  index: -1
+xxx
+  rotate: false
+  xy: 702, 444
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1

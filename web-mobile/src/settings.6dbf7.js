@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/frame/scene/Student.fire",orientation:"landscape",jsList:[],bundleVers:{internal:"f1413",frameRes:"20f29",resources:"eab89",main:"acff6"}};
